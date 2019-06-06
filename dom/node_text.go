@@ -1,7 +1,7 @@
 package dom
 
 import (
-	"github.com/lestrrat-go/libxml2/clib"
+	"github.com/KemalovMaulen/libxml2/clib"
 )
 
 func (n *CDataSection) Literal() (string, error) {

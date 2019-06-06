@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/lestrrat-go/libxml2"
-	"github.com/lestrrat-go/libxml2/xsd"
+	"github.com/KemalovMaulen/libxml2"
+	"github.com/KemalovMaulen/libxml2/xsd"
 	"github.com/stretchr/testify/assert"
 )
 
